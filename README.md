@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Salman Ahmed
-- 👀 I’m interested in Programming Languages, Linux, and AI.
-- 🌱 I’m currently learning Python and NLP.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on AI Agents, and Agentic AI  tools and applications.
 - 📫 How to reach me: msg me or comment here on Github.
 
 <!---
