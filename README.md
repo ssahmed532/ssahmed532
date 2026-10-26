@@ -1,3 +1,5 @@
+**The CLI is the way!**
+
 This is my collection of personal tools, utilities, CLI apps, and other code-related things I am working on. And increasingly, personal software apps I am building, refining, and maintaining using Claude Code and Codex.
 
 <!---
