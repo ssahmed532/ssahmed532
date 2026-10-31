@@ -5,3 +5,5 @@ This is my collection of personal tools, utilities, CLI apps, and other code-rel
 ### Featured
 
 - **[win-dev-patch-triage](https://github.com/ssahmed532/win-dev-patch-triage)**: a Claude Code skill that tells you what to patch on a Windows 11 dev machine today. It checks apps, runtimes, AI coding CLIs, and every lockfile in your projects for vulnerable and malicious versions.
+
+- **[claude-skill-diag-slow-windows](https://github.com/ssahmed532/claude-skill-diag-slow-windows)**: a Claude Code skill that informs whether a Windows 11 machine is actually slow and, if so, why. A read-only PowerShell diagnostic checks CPU clocks, background load, startup apps, boot events, and disk health, then ranks the causes with a copy-paste fix for each.
